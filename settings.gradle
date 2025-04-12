@@ -1,0 +1,5 @@
+// 这个文件可以想象成maven的 modules
+rootProject.name = 'demo-gradle'
+include 'demo-springboot'
+include 'demo-common'
+
